@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fernando/Escritorio/Ukranio/Ejercicios en clase/Clase 6'
+javac -g PruebaPoligono.java
+javac -g PoligonoIrreg.java
+javac -g Coordenada.java
+make: Leaving directory '/home/fernando/Escritorio/Ukranio/Ejercicios en clase/Clase 6'
+ 
