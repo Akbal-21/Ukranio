@@ -8,7 +8,7 @@ JC = javac
 
 CLASSES = \
 		  PruebaPoligono.java \
-		  PoligonoIrr.java \
+		  PoligonoIrreg.java \
 		  Coordenada.java \
 
 default: classes
